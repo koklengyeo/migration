@@ -25,33 +25,6 @@ Beef USA Regen Correction (t/ha);0,126181744
 Beef Western Africa Regen Correction (t/ha);0,165121011
 Beef Western Europe Regen Correction (t/ha);0,110784154
 Beef World Regen Correction (t/ha);0,147232568
-Cattle hides Brazil Regen Correction (t/ha);1,238668138
-Cattle hides Canada Regen Correction (t/ha);1,041630962
-Cattle hides Central America Regen Correction (t/ha);1,104766493
-Cattle hides Central Asia Regen Correction (t/ha);1,880935503
-Cattle hides Central Europe Regen Correction (t/ha);0,222039573
-Cattle hides China Region Regen Correction (t/ha);0,997570255
-Cattle hides Eastern Africa Regen Correction (t/ha);0,770564716
-Cattle hides India Regen Correction (t/ha);0,844859289
-Cattle hides Indonesia Region Regen Correction (t/ha);0,520867256
-Cattle hides Japan Regen Correction (t/ha);1,823311103
-Cattle hides Korea Regen Correction (t/ha);0,675284718
-Cattle hides Mexico Regen Correction (t/ha);0,299951421
-Cattle hides Middle East Regen Correction (t/ha);2,015433682
-Cattle hides Northern Africa Regen Correction (t/ha);1,261296745
-Cattle hides Oceania Regen Correction (t/ha);1,281715608
-Cattle hides Rest of South America Regen Correction (t/ha);1,275393011
-Cattle hides Rest of South Asia Regen Correction (t/ha);0,825020717
-Cattle hides Rest of Southern Africa Regen Correction (t/ha);0,770564716
-Cattle hides Russia Region Regen Correction (t/ha);0,294084534
-Cattle hides South Africa Regen Correction (t/ha);0,294262171
-Cattle hides Southeast Asia Regen Correction (t/ha);0,235853815
-Cattle hides Turkey Regen Correction (t/ha);0,763057102
-Cattle hides Ukraine Region Regen Correction (t/ha);0,437677121
-Cattle hides USA Regen Correction (t/ha);0,588848136
-Cattle hides Western Africa Regen Correction (t/ha);0,770564716
-Cattle hides Western Europe Regen Correction (t/ha);0,221568307
-Cattle hides World Regen Correction (t/ha);0,639732657
 Chicken Brazil Regen Correction (t/ha);0,605752729
 Chicken Canada Regen Correction (t/ha);0,638579393
 Chicken Central America Regen Correction (t/ha);0,279038361
@@ -106,6 +79,33 @@ Dairy USA Regen Correction (t/ha);1,353070885
 Dairy Western Africa Regen Correction (t/ha);0,480874177
 Dairy Western Europe Regen Correction (t/ha);0,674382701
 Dairy World Regen Correction (t/ha);0,990576089
+Leather Brazil Regen Correction (t/ha);1,238668138
+Leather Canada Regen Correction (t/ha);1,041630962
+Leather Central America Regen Correction (t/ha);1,104766493
+Leather Central Asia Regen Correction (t/ha);1,880935503
+Leather Central Europe Regen Correction (t/ha);0,222039573
+Leather China Region Regen Correction (t/ha);0,997570255
+Leather Eastern Africa Regen Correction (t/ha);0,770564716
+Leather India Regen Correction (t/ha);0,844859289
+Leather Indonesia Region Regen Correction (t/ha);0,520867256
+Leather Japan Regen Correction (t/ha);1,823311103
+Leather Korea Regen Correction (t/ha);0,675284718
+Leather Mexico Regen Correction (t/ha);0,299951421
+Leather Middle East Regen Correction (t/ha);2,015433682
+Leather Northern Africa Regen Correction (t/ha);1,261296745
+Leather Oceania Regen Correction (t/ha);1,281715608
+Leather Rest of South America Regen Correction (t/ha);1,275393011
+Leather Rest of South Asia Regen Correction (t/ha);0,825020717
+Leather Rest of Southern Africa Regen Correction (t/ha);0,770564716
+Leather Russia Region Regen Correction (t/ha);0,294084534
+Leather South Africa Regen Correction (t/ha);0,294262171
+Leather Southeast Asia Regen Correction (t/ha);0,235853815
+Leather Turkey Regen Correction (t/ha);0,763057102
+Leather Ukraine Region Regen Correction (t/ha);0,437677121
+Leather USA Regen Correction (t/ha);0,588848136
+Leather Western Africa Regen Correction (t/ha);0,770564716
+Leather Western Europe Regen Correction (t/ha);0,221568307
+Leather World Regen Correction (t/ha);0,639732657
 Maize Brazil Regen Correction (t/ha);5,715659447
 Maize Canada Regen Correction (t/ha);9,144060777
 Maize Central America Regen Correction (t/ha);1,897317242
